@@ -3,7 +3,7 @@ layout: "../../layouts/BlogPost.astro"
 title: "Are we more honest with ChatGPT than with ourselves?"
 description: "Reflections on my new life journey in Mexico and becoming an entrepreneur again."
 pubDate: "Mar 17 2023"
-heroImage: "/placeholder-hero.jpg"
+heroImage: "/1-surreal.png"
 ---
 
 ## Why have I struggled with being able to write publicly? Let’s ask GPT-4.
