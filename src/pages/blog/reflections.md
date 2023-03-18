@@ -6,9 +6,9 @@ pubDate: "Mar 17 2023"
 heroImage: "/1-surreal.png"
 ---
 
-# Reflections on my new life journey in Mexico and becoming an entrepreneur again.
+## Reflections on my new life journey in Mexico and becoming an entrepreneur again.
 
-## Why have I struggled with being able to write publicly? Let’s ask GPT-4.
+### Why have I struggled with being able to write publicly? Let’s ask GPT-4.
 
 For a few months, I’ve been struggling to post publicly anywhere on my public profile, on Twitter and elsewhere.
 
@@ -30,11 +30,11 @@ ChatGPT responded with great questions to reflect on:
 
 As a starting point, ChatGPT provides really valuable reflective feedback. This is the type of advice I would give to other people. However, it's hard to give myself the same advice because I overthink and overcomplicate tasks for myself.
 
-## Are we more honest with ChatGPT than with ourselves?
+### Are we more honest with ChatGPT than with ourselves?
 
 I think that the collaborative effort of building a prompt gives us permission to be more honest with ourselves. Sometimes the voice within our own heads may edit or criticize what we write in ways we would not do to others. Talking with ChatGPT is an opportunity to externalize what we are writing and also provide positive constructive reinforcement of discovering which ideas can be developed further without getting stuck in our own minds.
 
-## My current journey and why I am starting to write publicly again.
+### My current journey and why I am starting to write publicly again.
 
 Here is what I’ve discovered through my process of talking with ChatGPT.
 
@@ -62,7 +62,7 @@ Deeper Problem: People want to be less lonely and they want to share their journ
 
 I’m hoping to tackle both of these core problems because they resonate deeply with my current path in life.
 
-## How I could expand my essay in the future
+### How I could expand my essay in the future
 
 ChatGPT:
 
