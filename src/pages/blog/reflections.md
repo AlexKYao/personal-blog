@@ -6,6 +6,8 @@ pubDate: "Mar 17 2023"
 heroImage: "/1-surreal.png"
 ---
 
+# Reflections on my new life journey in Mexico and becoming an entrepreneur again.
+
 ## Why have I struggled with being able to write publicly? Let’s ask GPT-4.
 
 For a few months, I’ve been struggling to post publicly anywhere on my public profile, on Twitter and elsewhere.
