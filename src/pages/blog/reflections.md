@@ -52,7 +52,7 @@ For most of my past entrepreneurial journey, I believed in this idea about mysel
 
 As an entrepreneur, I helped students Peru and Colombia discover their passion for STEM. I helped people with chronic health conditions (Inflammatory Bowel Disease) heal through IBDCoach. And now I’m tackling a problem that is relevant to my life living abroad in Mexico City and relevant to many people considering to move or travel to a new place in the world.
 
-I want to create products that help people transform their lives.
+I want to create products and communities that help people transform their lives.
 
 What I’ve noticed about my journey with language learning and travel:
 
